@@ -1,0 +1,4 @@
+значение a -> 16
+значение sqrt_a -> sqrt(a)
+значение numbers -> (10, 20, 30)
+значение max_value -> max(numbers)
